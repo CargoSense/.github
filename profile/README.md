@@ -1,7 +1,6 @@
 # Welcome to CargoSense's GitHub Organization
 
 - [CargoSense Web Site](http://www.cargosense.com)
-- [CargoSense Twitter Account](https://twitter.com/cargosense)
 - [CargoSense on LinkedIn](https://www.linkedin.com/company/cargosense/mycompany/)
 
 ## About Our Engineering Team
