@@ -1,7 +1,7 @@
 # Welcome to CargoSense's GitHub Organization
 
 - [CargoSense Web Site](http://www.cargosense.com)
-- [CargoSense on LinkedIn](https://www.linkedin.com/company/cargosense/mycompany/)
+- [CargoSense on LinkedIn](https://www.linkedin.com/company/cargosense/)
 
 ## About Our Engineering Team
 - We are an [Elixir](https://elixir-lang.org/) and [Ruby](https://www.ruby-lang.org/en/) shop.
